@@ -4,8 +4,8 @@
 
 exports.index = function(req, res){
   res.render('index', {
-    title: 'HTML5 ✰ Boilerplate', 
+    title: 'GLOBALVIEW Sites',
     description: 'Description',
-    author: 'Author'
+    author: 'Ethan Lew'
   });
 };
